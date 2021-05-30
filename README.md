@@ -11,9 +11,12 @@
 
 ##### Edit
 From root
+
 `/app/src/main/java/com/example/myapplication/MainActivity.java`
+
 or
-![alt text](https://github.com/xantos008/avalanche-android-webview-app-sample/blob/master/screenshot.png?raw=true)
+
+![alt text](https://github.com/xantos008/avalanche-android-webview-app-sample/blob/main/screenshot.pngraw=true)
 
 line `87`
 
