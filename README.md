@@ -16,7 +16,7 @@ From root
 
 or
 
-![alt text](https://github.com/xantos008/avalanche-android-webview-app-sample/blob/main/screenshot.pngraw=true)
+![alt text](https://github.com/xantos008/avalanche-android-webview-app-sample/blob/main/screenshot.png?raw=true)
 
 line `87`
 
